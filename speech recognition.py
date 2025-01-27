@@ -15,7 +15,7 @@ import time
 from openai import OpenAI
 import pygame
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="")
 
 pygame.mixer.init()
 # os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = "hide"
